@@ -66,8 +66,8 @@ O CobraCerta é um sistema completo de gestão de empréstimos desenvolvido com 
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/cobracerta.git
-cd cobracerta
+git clone https://github.com/leandrosuy2/sharks-emprestimos.git
+cd sharks-emprestimos
 ```
 
 2. Instale as dependências do PHP
